@@ -1,0 +1,70 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "Mobile",
+   "children": [
+    {"name": "Mobile_Traveling", "size": 17010},
+    {"name": "Mobile_Commuting", "size": 5842},
+    {"name": "Mobile_Shopping", "size": 1041},
+    {"name": "Mobile_Outdoors", "size": 5176},
+    {"name": "Mobile_Restaurant", "size": 2449},
+    {"name": "Mobile_School", "size": 5593},
+    {"name": "Mobile_Work", "size": 5534},
+    {
+      "name": "Home",
+      "children": [
+      {"name": "Mobile_Bedroom", "size": 3456},
+      {"name": "Mobile_Kitchen", "size": 3456},
+      {"name": "Mobile_Office", "size": 3456},
+      {"name": "Mobile_LivingRoom", "size": 3456}
+      ]
+    }
+   ]
+  },
+  {
+   "name": "Tablet",
+   "children": [
+    {"name": "Tablet_Traveling", "size": 1000},
+    {"name": "Tablet_Commuting", "size": 1165},
+    {"name": "Tablet_Shopping", "size": 586},
+    {"name": "Tablet_Outdoors", "size": 223},
+    {"name": "Tablet_Restaurant", "size": 772},
+    {"name": "Tablet_School", "size": 1322},
+    {"name": "Tablet_Work", "size": 2122},
+    {
+      "name": "Home",
+      "children": [
+      {"name": "Tablet_Bedroom", "size": 1234},
+      {"name": "Tablet_Kitchen", "size": 3456},
+      {"name": "Tablet_Office", "size": 3456},
+      {"name": "Tablet_LivingRoom", "size": 3456}
+      ]
+    }
+   ]
+  },
+  {
+   "name": "Laptop",
+   "children": [
+    {"name": "Laptop_Traveling", "size": 2105},
+    {"name": "Laptop_Commuting", "size": 1316},
+    {"name": "Laptop_Shopping", "size": 3151},
+    {"name": "Laptop_Outdoors", "size": 3770},
+    {"name": "Laptop_Restaurant", "size": 2435},
+    {"name": "Laptop_School", "size": 4839},
+    {"name": "Laptop_Work", "size": 1756},
+    {
+      "name": "Home",
+      "children": [
+      {"name": "Laptop_Bedroom", "size": 2154},
+      {"name": "Laptop_Kitchen", "size": 1954},
+      {"name": "Laptop_Office", "size": 3310},
+      {"name": "Laptop_LivingRoom", "size": 1234}
+      ]
+    }
+   ]
+  }
+ ]
+}
+
+
