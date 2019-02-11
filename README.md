@@ -1,4 +1,4 @@
-# D3-Challenge
+# D3-Sunburst
 Playing around with with a simple D3 Sunburst visual
 
 borrowed this: https://bl.ocks.org/mbostock/4063423
